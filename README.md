@@ -1,1 +1,17 @@
-The goal of this exercise was to create a basic map page with Google Maps embedded in an iframe to look like a map page from a fictional Estate Agent website. This gave me hands-on experience with the useage of iframes in HTML web pages.
+# Estate Agent Map Page
+
+## Overview
+This project is a single web page for a website of a fictional estate agent. It contains an iframe HTML element which displays Google Maps.<br />
+A preview of what this project looks like when deployed can be viewed on Vercel at this link: https://estate-agent-map-page.vercel.app/
+
+## Tech Stack
+- HTML5
+- CSS3
+
+## Project Structure
+Estate-Agent-Map-Page/<br/>
+└─images/<br/>
+&emsp;&emsp;└─ houselogo.png<br />
+├─ README.md<br/>
+├─ index.html<br/>
+└─ style.css<br/>
