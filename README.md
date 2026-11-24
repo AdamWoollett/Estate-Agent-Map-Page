@@ -12,7 +12,7 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 ```
 Estate-Agent-Map-Page/<br/>
 └─images/<br/>                #Images used on the page
-    └─ houselogo.png<br />
+├    └─ houselogo.png<br />
 ├─ README.md<br/>
 ├─ index.html<br/>
 └─ style.css<br/>
