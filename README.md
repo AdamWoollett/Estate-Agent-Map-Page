@@ -9,9 +9,11 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 - CSS3
 
 ## Project Structure
+```
 Estate-Agent-Map-Page/<br/>
-└─images/<br/>
-&emsp;&emsp;└─ houselogo.png<br />
+└─images/<br/>                #Images used on the page
+    └─ houselogo.png<br />
 ├─ README.md<br/>
 ├─ index.html<br/>
 └─ style.css<br/>
+```
