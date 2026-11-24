@@ -11,9 +11,9 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 ## Project Structure
 ```
 Estate-Agent-Map-Page/
-└─images/                #Images used on the page
+└─images/                #Directory of images used on the page
 ├    └─ houselogo.png
 ├─ README.md
-├─ index.html
-└─ style.css
+├─ index.html            # Landing page.
+└─ style.css             # Page styling.
 ```
