@@ -10,10 +10,10 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 
 ## Project Structure
 ```
-Estate-Agent-Map-Page/<br/>
-└─images/<br/>                #Images used on the page
-├    └─ houselogo.png<br />
-├─ README.md<br/>
-├─ index.html<br/>
-└─ style.css<br/>
+Estate-Agent-Map-Page/
+└─images/                #Images used on the page
+├    └─ houselogo.png
+├─ README.md
+├─ index.html
+└─ style.css
 ```
